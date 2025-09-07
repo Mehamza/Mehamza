@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mehamza
-- 👀 I’m interested in Data science / Macine learning / Computer vision / Genarative ai / Web developement 
+- 👀 I’m interested in Data science / Macine learning / Computer vision / Genarative ai / Web developement / Embedded systems
 - 🌱 I’m currently learning about data science 
 
 <!---
